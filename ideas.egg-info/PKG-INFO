@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ideas
+Version: 0.1.0
+Summary: Library implementing various ideas
+Home-page: https://git.cs.kent.ac.uk/mg483/metarl/
+Author: Theophile Champion
+Author-email: lb732@kent.ac.uk
+License: Apache 2.0
+Keywords: pytorch,machine learning,reinforcement learning,deep learning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: ~=3.11

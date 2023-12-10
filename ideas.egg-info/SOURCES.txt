@@ -1,0 +1,14 @@
+setup.py
+ideas.egg-info/PKG-INFO
+ideas.egg-info/SOURCES.txt
+ideas.egg-info/dependency_links.txt
+ideas.egg-info/requires.txt
+ideas.egg-info/top_level.txt
+sequence_vae/__init__.py
+sequence_vae/main.py
+sequence_vae/agents/AgentInterface.py
+sequence_vae/agents/__init__.py
+sequence_vae/environments/WordsEnv.py
+sequence_vae/environments/__init__.py
+sequence_vae/tasks/TaskInterface.py
+sequence_vae/tasks/__init__.py
